@@ -1,0 +1,16 @@
+{
+    "ItemDidNotListed": "ItemDidNotListed()",
+    "InvalidFixedPriceMarketSaleState": "InvalidFixedPriceMarketSaleState()",
+    "NotTokenOwner": "NotTokenOwner()",
+    "IncorrectProcessingOfTheAuctionResult": "IncorrectProcessingOfTheAuctionResult()",
+    "InvalidAuctionState": "InvalidAuctionState()",
+    "InvalidTimeForFunction": "InvalidTimeForFunction()",
+    "InvalidBidAmount": "InvalidBidAmount()",
+    "AmountCanNotBeZero": "AmountCanNotBeZero()",
+    "TokenIsUnaccepted": "TokenIsUnaccepted()",
+    "InstantBuyPriceMustBeGreaterThanMin": "InstantBuyPriceMustBeGreaterThanMin()",
+    "BalanceOfContractIsTooLow": "BalanceOfContractIsTooLow()",
+    "RecipientMayHaveReverted": "RecipientMayHaveReverted()",
+    "FeePercentTooHigh": "FeePercentTooHigh()",
+    "CallerHasNotRole": "CallerHasNotRole()"
+  }
